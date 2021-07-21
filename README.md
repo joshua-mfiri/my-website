@@ -3,7 +3,10 @@
 Local updates to this file.
 
 Update on remote before rebase.
+On develop branch
 
-#####On develop branch
+
+Remote repository additions at the end
+
 
 Thos will result in conflict
