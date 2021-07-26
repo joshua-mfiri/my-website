@@ -9,4 +9,6 @@ On develop branch
 Remote repository additions at the end
 
 
-Thos will result in conflict
+These will result in conflict
+
+Made new edits to demonstrate changing where the tag points to.
