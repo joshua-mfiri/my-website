@@ -12,3 +12,5 @@ Remote repository additions at the end
 These will result in conflict
 
 Made new edits to demonstrate changing where the tag points to.
+
+## Getting Started
